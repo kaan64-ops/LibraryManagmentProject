@@ -114,3 +114,51 @@ This application was developed for educational purposes to strengthen practical 
 ## Project Status
 
 Completed educational project.
+
+
+---
+
+## Application Screenshots
+
+The following screenshots demonstrate the main features of the Library Management System from both administrator and customer perspectives.
+
+### Login Interface
+
+Users can select their role and access the appropriate interface.
+
+![Login Selection](screenshots/login-selection.png)
+
+### Administrator Interface
+
+Administrators can manage books, categories, customers, and orders through a dedicated dashboard.
+
+#### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+#### Book Management
+![Book Management](screenshots/admin-books.png)
+
+#### Category Management
+![Category Management](screenshots/admin-categories.png)
+
+#### Customer Management
+![Customer Management](screenshots/admin-customers.png)
+
+#### Order Management
+![Admin Order Management](screenshots/admin-orders.png)
+
+### Customer Interface
+
+Customers can browse available books, manage their orders, and access their personal information.
+
+#### Customer Dashboard
+![Customer Dashboard](screenshots/customer-dashboard.png)
+
+#### Book Catalog
+![Customer Book Catalog](screenshots/customer-books.png)
+
+#### My Orders
+![Customer Orders](screenshots/customer-orders.png)
+
+#### My Profile
+![Customer Profile](screenshots/customer-profile.png)
