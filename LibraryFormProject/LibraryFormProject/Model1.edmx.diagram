@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f662ee45e2cd42ad80e6d20a388d44cf" Name="Diagram1">
+        <EntityTypeShape EntityType="LibraryManagementDBModel.adminTable" Width="1.5" PointX="9.125" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.AuthorTable" Width="1.5" PointX="6.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.BookAuthorTable" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.booksTable" Width="1.5" PointX="4.5" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.CategoryTable" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.CustomerTable" Width="1.5" PointX="13" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.orderTable" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.physicalBookTable" Width="1.5" PointX="9.625" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementDBModel.PublisherTable" Width="1.5" PointX="7.875" PointY="4.5" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
